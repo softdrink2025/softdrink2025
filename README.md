@@ -1,6 +1,5 @@
-![h![header](https://capsule-render.vercel.app/api?type=waving&color=FF69B4,E6E6FA&height=300&section=header&text=Aha&fontSize=90)
+![h![header](https://capsule-render.vercel.app/api?type=waving&color=FF69B4%2CE6E6FA&height=300&section=header&text=Aha&fontSize=90)
 
-<!--
 **softdrink2025/softdrink2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
